@@ -5,7 +5,7 @@ import sys
 
 def check_reboot():
     """Returns True if the computer has a pending reboot."""
-    # Filhal ke liye hum False return kar rahe hain.
+    # Filhal ke liye hum False return kar rahe hain.....
     # Asal mein yeh system check karta hai ke reboot pending hai ya nahi.
     return False
 
